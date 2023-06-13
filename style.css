@@ -1,0 +1,64 @@
+* {
+    border: solid red 2px;
+    overflow-y: hidden;
+    background-color: #EEEBD3;
+}
+body {
+    height: auto;
+    height: 1000px;
+}
+.login-int {
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 600px;
+    left: 30%;
+    top: 20%;
+    border-radius: 5%;
+    background-color: blue;
+}
+.login-tittle{
+    padding-top: 5px;
+    text-align: center;
+    font-size: x-large;
+    background-color: blue;
+}
+h1 {
+    background-color: rgb(110, 110, 197);
+}
+.login {
+    display: grid;
+    position: relative;
+    padding-top: px;
+    height: 280px;
+    background-color: blue;
+}
+input{
+    border-radius: 3px;
+    height: 40px;
+    width: 70%;
+    background-color: rgb(233, 222, 222);
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 15%;
+}
+label{
+    padding: 15px;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+}
+.button {
+    background-color: blue;
+}
+button{
+    position: relative;
+    top: 15px;
+    height: 70%;
+    width: 150px;
+    align-items: center;
+    background-color: rgb(138, 134, 202);
+    border-radius: 4px;
+}
